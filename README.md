@@ -1,5 +1,5 @@
 <h2 align="center">Меня зовут Роман, я QA-Enginer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center" width="100"></h2>
-<p align="center"><img src="./images/main.gif" width="600" height="300"/></a></p>
+<p align="center"><img src="./Image/main.gif" width="600" height="300"/></a></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ia-stepanov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
